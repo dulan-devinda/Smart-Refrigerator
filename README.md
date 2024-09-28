@@ -1,7 +1,7 @@
 <h1>Smart Refrigerator Project</h1>
 
 <!-- Group Photo -->
-<img src="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/images/1727517681738.jpg?raw=true" alt="Group Photo" width="600">
+<img src="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/images/1727517681738.jpg?raw=true" alt="Group Photo" width="1000">
 
 <h2>Introduction</h2>
 <p>
