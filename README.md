@@ -32,10 +32,12 @@
   
 </ul>
 
-<h2>Tools and Technologies Used</h2>
+<h2>Technologies Used</h2>
 <ul>
-  <li><strong>Software:</strong> LabVIEW, Python, TensorFlow</li>
-  <li><strong>Hardware:</strong> Sensors, Actuators, DAQ system</li>
+  <li>LabVIEW</li>
+  <li>Python</li>
+  <li>TensorFlow</li>
+  
 </ul>
 
 <!-- User Interface Image -->
