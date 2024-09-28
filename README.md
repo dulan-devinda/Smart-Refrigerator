@@ -6,15 +6,17 @@
 <h2>Introduction</h2>
 <p>
   The <strong>Smart Refrigerator</strong> is designed to enhance a traditional refrigerator using sensors, actuators, and AI technology. 
-  It provides automatic chilled water refilling, food recognition, and a door monitoring system to ensure optimal performance and user convenience.
+  Most importantly, it prevents you from completely running out of stock of food by recognizing items that are close to finishing and alerting you in advance.
+  It also provides automatic chilled water refilling, food recognition, and a door monitoring system to ensure optimal performance and user convenience.
 </p>
 
 <h2>Features</h2>
 <ul>
-  <li>Food recognition system to track items that are running low.</li>
+  <li>Recognizes foods that are close to finishing using weight measurements.</li>
   <li>Automatic chilled water refilling system.</li>
   <li>Door monitoring system to ensure the door is properly closed.</li>
-  <li>Integration with AI models for advanced food recognition.</li>
+  <li>Uses an AI model to recognize foods inside the fridge.</li>
+  <li>User Friendly dashboard</li>
 </ul>
 
 <h2>Materials Used</h2>
