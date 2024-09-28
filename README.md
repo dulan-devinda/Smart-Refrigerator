@@ -21,11 +21,15 @@
 
 <h2>Materials Used</h2>
 <ul>
-  <li>Temperature Sensor</li>
-  <li>Humidity Sensor</li>
-  <li>Water Level Sensor</li>
-  <li>Actuators</li>
-  <li>ESP32 Microcontroller</li>
+  <li>NI DAQ mx</li>
+  <li>Rasberry Pi 4</li>
+  <li>Rigol DP900 Variable DC Power Supply</li>
+  <li>Thin Film Pressure Sensor 2Kg</li>
+  <li>Magnetic Door Sensor Proximity NO</li>
+  <li>Water level Sensor Float switch Small PP</li>
+  <li>Ultra-quiet Brushless Motor Submersible Water Pump</li>
+  <li>Web Camera</li>
+  
 </ul>
 
 <h2>Tools and Technologies Used</h2>
