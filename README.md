@@ -42,7 +42,7 @@
 
 <!-- User Interface Image -->
 <h2>User Interface</h2>
-<img src="path/to/ui-image.jpg" alt="Smart Refrigerator UI" width="600">
+<img src="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/images/1727695382252.jpg?raw=true" width="1000">
 <p>
   The user interface allows users to monitor the status of the refrigerator in real time, including water level, temperature, and door status. 
   Users can also access food tracking data, providing insights into items that are running low.
