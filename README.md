@@ -60,3 +60,8 @@
   The core of the system was developed using <strong>LabVIEW</strong> to control and monitor the sensors and actuators. 
   The program interfaces with the hardware, ensuring efficient communication and response to real-time data.
 </p>
+
+<h2>License</h2>
+<p>
+  This project is licensed under the <a href="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/LICENSE">MIT License</a> - see the <a href="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/LICENSE">LICENSE</a> file for details.
+</p>
