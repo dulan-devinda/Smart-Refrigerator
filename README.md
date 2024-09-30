@@ -44,8 +44,9 @@
 <h2>User Interface</h2>
 <img src="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/images/1727695382252.jpg?raw=true" width="1000">
 <p>
-  The user interface allows users to monitor the status of the refrigerator in real time, including water level, temperature, and door status. 
-  Users can also access food tracking data, providing insights into items that are running low.
+  The user interface displays the weight of the goods, helping to identify food that is close to finishing. 
+  It also notifies the user if the door is not properly closed and allow the user to connect or disconnect the automatic chilled water system.
+</p>
 </p>
 
 <!-- LabVIEW Program Image -->
@@ -60,6 +61,22 @@
   The core of the system was developed using <strong>LabVIEW</strong> to control and monitor the sensors and actuators. 
   The program interfaces with the hardware, ensuring efficient communication and response to real-time data.
 </p>
+
+<h2>Project Contributions</h2>
+<ul>
+  <li><strong>LabVIEW Programming:</strong> Developed control systems for the DAQ card, sensors, and automation.</li>
+  <li><strong>Machine Learning Model Training:</strong> Trained and implemented a model for fruit and vegetable recognition.</li>
+  <li><strong>Raspberry Pi Programming:</strong> Integrated the image recognition model with Raspberry Pi for real-time use.</li>
+  <li><strong>Circuit Design and Sensor Calibration:</strong> Assembled circuits and calibrated sensors for data collection and system accuracy.</li>
+</ul>
+
+<h2>Future Improvements</h2>
+<ul>
+  <li>Add a mobile app interface to provide real-time updates on fridge contents.</li>
+  <li>Integrate a more advanced food spoilage detection system.</li>
+  <li>Enhance the weight monitoring system to categorize and track specific food items.</li>
+</ul>
+
 
 <h2>License</h2>
 <p>
