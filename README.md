@@ -50,7 +50,12 @@
 
 <!-- LabVIEW Program Image -->
 <h2>LabVIEW Program</h2>
-<img src="path/to/labview-program.jpg" alt="LabVIEW Program" width="600">
+<table>
+  <tr>
+    <td><img src="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/images/1727695382229.jpg?raw=true" alt="LabVIEW Program" width="500"></td>
+    <td><img src="https://github.com/dulan-devinda/Smart-Refrigerator/blob/main/images/1727695382177.jpg?raw=true" alt="LabVIEW Program" width="500"></td>
+  </tr>
+</table>
 <p>
   The core of the system was developed using <strong>LabVIEW</strong> to control and monitor the sensors and actuators. 
   The program interfaces with the hardware, ensuring efficient communication and response to real-time data.
